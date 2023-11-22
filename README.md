@@ -2,4 +2,4 @@
 
 ## Live Demo
 
-Check out the live demo [here](https://your-website-url.com).
+Check out the live demo [here](https://preetamlenka3.github.io/modern-portfolio/)
